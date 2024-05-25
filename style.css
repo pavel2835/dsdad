@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+    background-color: black
+    ;
+}
+p {
+      color: white;
+      background-color:blue;
+      font-size: 20px;
+ }
+ ul {
+     color:white ; 
+ }
+ h1 {
+    color:coral;
+}
+li {
+     background-color:brown;
+     margin: 15px;
+}
+
+.link-header {
+    color:white;
+    padding: 10px;
+    padding-top: 15px;
+    background-color: grey;
+}
+footer {
+    background-color: blanchedalmond;
+}
+ h2 {
+    color:white;
+ }
+ a {
+color: black;
+ }
+
+
+
