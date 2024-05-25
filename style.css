@@ -5,6 +5,14 @@ body {
 .link-navv {
     background-color:grey;
 }
+.iaka {
+   color:white; 
+   padding-left: 50px; 
+     background-color:grey;
+}
+p {
+    color: green;
+}
 p {
       color:white ;
  }
