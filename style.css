@@ -1,5 +1,55 @@
 body {
     font-family: sans-serif;
+     background-color: black;
+}
+p {
+      color:white ;
+ }
+ ul {
+     color:white ; 
+ }
+ h1 {
+    color:white;
+}
+.link-header {
+    color:white;
+    padding: 10px;
+    padding-top: 15px;
+    background-color: grey;
+}
+footer {
+    background-color: blanchedalmond;
+}
+body {
+    font-family: sans-serif;
+    background-color: black
+    ;
+}
+
+p {
+      color: white ;
+      background-color:darkblue;
+ }
+ ul {
+     color:white ; 
+ }
+ h1 {
+    color:white;
+}
+.link-header {
+    color:white;
+    padding: 10px;
+    padding-top: 15px;
+    background-color: grey;
+}
+footer {
+    background-color: blanchedalmond;
+}
+a {
+    color: black;
+}
+body {
+    font-family: sans-serif;
 }
 body {
     font-family: sans-serif;
@@ -37,6 +87,5 @@ footer {
  a {
 color: black;
  }
-
 
 
